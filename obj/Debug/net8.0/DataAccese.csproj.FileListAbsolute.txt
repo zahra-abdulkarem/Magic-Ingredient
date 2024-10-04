@@ -1,0 +1,12 @@
+C:\Users\Windows 10\Desktop\Magic-Ingredient-Project\DataAccese\obj\Debug\net8.0\DataAccese.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Desktop\Magic-Ingredient-Project\DataAccese\obj\Debug\net8.0\DataAccese.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 10\Desktop\Magic-Ingredient-Project\DataAccese\obj\Debug\net8.0\DataAccese.AssemblyInfoInputs.cache
+C:\Users\Windows 10\Desktop\Magic-Ingredient-Project\DataAccese\obj\Debug\net8.0\DataAccese.AssemblyInfo.cs
+C:\Users\Windows 10\Desktop\Magic-Ingredient-Project\DataAccese\obj\Debug\net8.0\DataAccese.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Desktop\Magic-Ingredient-Project\DataAccese\bin\Debug\net8.0\DataAccese.deps.json
+C:\Users\Windows 10\Desktop\Magic-Ingredient-Project\DataAccese\bin\Debug\net8.0\DataAccese.dll
+C:\Users\Windows 10\Desktop\Magic-Ingredient-Project\DataAccese\bin\Debug\net8.0\DataAccese.pdb
+C:\Users\Windows 10\Desktop\Magic-Ingredient-Project\DataAccese\obj\Debug\net8.0\DataAccese.dll
+C:\Users\Windows 10\Desktop\Magic-Ingredient-Project\DataAccese\obj\Debug\net8.0\refint\DataAccese.dll
+C:\Users\Windows 10\Desktop\Magic-Ingredient-Project\DataAccese\obj\Debug\net8.0\DataAccese.pdb
+C:\Users\Windows 10\Desktop\Magic-Ingredient-Project\DataAccese\obj\Debug\net8.0\ref\DataAccese.dll
